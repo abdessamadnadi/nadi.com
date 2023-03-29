@@ -1,0 +1,371 @@
+.background{
+    background-image: url(wallpapersden.com_windows-11-4k-dark-blue_1920x1080.jpg);
+margin-top: -20px;
+margin-left: -8px;
+margin-right: -10px;
+height: 1000px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+   
+ 
+  
+}
+.Company-x{
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 30px;
+    cursor: pointer;
+
+}
+.a{ 
+    color: white;
+    font-size: 14px;
+    font-family:arial;
+    cursor: pointer;
+    cursor: pointer;
+
+ 
+}
+.a:hover{
+    background-color:#d2344e;
+    color: white;
+    transition: 1s;
+    padding: 10px 10px
+    ;
+}
+.b{    color: white;
+    font-size: 14px;
+    font-family:arial;
+cursor: pointer;
+margin-left: 10px;}
+.b:hover{
+    background-color:#d2344e;
+    color: white;
+    transition: 1s;
+    padding: 10px 10px
+    ;
+}
+.c{    color: white;
+    font-size: 14px;
+    font-family:arial;
+    cursor: pointer;
+
+margin-left: 10px;}
+.c:hover{
+    background-color:#d2344e;
+    color: white;
+    transition: 1s;
+    padding: 10px 10px
+    ;
+}
+.d{    color: white;
+    font-size: 14px;
+    font-family:arial;
+margin-left: 10px;
+cursor: pointer;}
+.d:hover{
+    background-color:#d2344e;
+    color: white;
+    transition: 1s;
+    padding: 10px 10px
+    ;
+}
+    .jobs-button{
+        background-color: #d2344e;
+        color: white;
+        border: none;
+        font-size: 16px;
+        font-family: arial;
+        font-weight: 700;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        margin-right: 60px;
+        margin-left: 20px;
+        cursor: pointer;
+    }
+    .jobs-button:hover{
+      transition: opacity 1S;
+      opacity: 0.9;
+    }
+    .jobs-button:active{
+        opacity: 0.5;
+    }
+    .button{
+        align-items: center;
+    }
+.e,.f,.g,.r,.s,.t,.m{
+    color: rgb(187, 185, 185);
+    margin-left: 20px;
+    cursor: pointer;
+}
+.e:hover{
+    color: white;
+    font-family: arial;
+    font-weight: 700;
+    text-decoration: 2px underline;
+    
+}
+
+.f:hover{
+    color: white;
+    font-family: arial;
+    font-weight: 700;
+    text-decoration: 2px underline;
+}
+.g:hover{
+    color: white;
+    font-family: arial;
+    font-weight: 700;
+    text-decoration: 2px underline;
+}.r:hover{
+    color: white;
+    font-family: arial;
+    font-weight: 700;
+    text-decoration: 2px underline;
+}.s:hover{
+    color: white;
+    font-family: arial;
+    font-weight: 700;
+    text-decoration: 2px underline;
+}.t:hover{
+    color: white;
+    font-family: arial;
+    font-weight: 700;
+    text-decoration: 2px underline;
+}
+.m:hover{
+    color: white;
+    font-family: arial;
+    font-weight: 700;
+    text-decoration: 2px underline;
+}
+
+.a-button{
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.subtitle-1{
+    color: white;
+    font-size: 40px;
+    font-family: arial;
+    font-weight: bold;
+    margin-bottom: 4px;
+    
+}
+.subtitle-2{
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 4px;
+    margin-left: 10px;
+
+
+}
+.subtitle{
+text-align: center;
+margin-top: 70px;
+}
+.apply{
+    border: 1px solid white ;
+    background-color: transparent;
+    color: white;
+    padding-left: 15px;
+    padding-right: 27px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.apply:hover{
+    background-color: #d2344e;
+    transition: 0.4s;
+}
+.connect{  border: 1px solid white ;
+    background-color: transparent;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 18px;
+    display: block;
+    cursor: pointer;
+}
+.connect:hover{
+    background-color: #d2344e;
+    transition: 0.4s;
+}
+.button-a{
+    flex: 1px;
+margin-left: 1250px;
+}
+.b-button{
+    text-decoration: none;
+    background-color: rgba(137,158,199,.25);
+    box-shadow: 0 0 2rem 0 rgba(0,0,0,.1);
+    padding-right: 40px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: arial;
+    padding-left: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    cursor: pointer;
+
+
+}
+.b-button:hover{
+background-color: rgb(88, 72, 230);
+transition: 0.4s ease-in-out;
+}
+.c-button{
+    text-decoration: none;
+    background-color: rgba(137,158,199,.25);
+    box-shadow: 0 0 2rem 0 rgba(0,0,0,.1);
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: arial;
+   padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 25px;
+    padding-right:40px ;
+    margin-left: 30px;
+    cursor: pointer;
+
+
+}
+.c-button:hover{
+background-color: rgb(88, 72, 230);
+transition: 0.4s ease-in-out;
+}
+.butt{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-top: -100px;
+}
+
+.d-button{
+    text-decoration: none;
+    background-color: rgba(137,158,199,.25);
+    box-shadow: 0 0 2rem 0 rgba(0,0,0,.1);
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: arial;
+   padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 25px;
+    padding-right:40px ;
+    margin-left: 30px;
+    cursor:pointer;
+
+}
+.d-button:hover{
+background-color:rgb(88, 72, 230);
+transition: 0.4s ease-in-out;
+}
+.e-button{
+    text-decoration: none;
+    background-color: rgba(137,158,199,.25);
+    box-shadow: 0 0 2rem 0 rgba(0,0,0,.1);
+    margin-top: 5px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: arial;
+   padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 25px;
+    padding-right:40px ;
+    cursor: pointer;
+    
+  
+
+}
+.e-button:hover{
+    background-color: rgb(88, 72, 230);
+    transition: 0.4s ease-in-out;
+    }
+    .Q{
+        display: flex;
+        flex-direction: row;
+    }
+    .Z{
+        margin-top: 50px;
+    }
+    .f-button{
+        text-decoration: none;
+        background-color: rgba(137,158,199,.25);
+        box-shadow: 0 0 2rem 0 rgba(0,0,0,.1);
+        margin-top: 5px;
+        color: #fff;
+        font-weight: 500;
+        font-size: 20px;
+        font-family: arial;
+       padding-left: 40px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        line-height: 25px;
+        padding-right:40px ;
+        margin-left: 30px;
+        cursor: pointer;
+
+   
+    }
+    .f-button:hover{
+        background-color: rgb(88, 72, 230);
+        transition: 0.4s ease-in-out;
+        }
+        .g-button{
+            text-decoration: none;
+            background-color: rgba(137,158,199,.25);
+            box-shadow: 0 0 2rem 0 rgba(0,0,0,.1);
+            margin-top: 5px;
+            color: #fff;
+            font-weight: 500;
+            font-size: 20px;
+            font-family: arial;
+           padding-left: 40px;
+            padding-top: 15px;
+            padding-bottom: 15px;
+            line-height: 25px;
+            padding-right:40px ;
+            margin-left: 30px;
+            cursor: pointer;
+        }
+        .g-button:hover{
+            background-color:rgb(88, 72, 230);
+            transition: 0.4s ease-in-out;
+            }
+    
+   
